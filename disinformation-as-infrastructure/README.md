@@ -2,6 +2,8 @@
 
 *Hervé Letoqueux de VIGINUM*
 
+- [Hervé Letoqueux - LinkedIn](https://www.linkedin.com/in/herve-letoqueux-3b5111298/)
+
 Analyse de la campagne de désinformation **Portabl Kombat** par les équipes de VIGINUM.
 
 Certaines adresses IP étaient situées derrières CloudFlare. On peut étendre l'ensemble des IPs utilisées pour disséminer de la désinformation grâce au header `ETag`. De même, il est possible d'automatiser de la récupération d'ancien contenu avec [Archive.org](https://archive.org/). Avec cela, on peut récupérer les tracker Google Analytic, des emails et toutes sortes d'informations qui serviront à pivoter.
