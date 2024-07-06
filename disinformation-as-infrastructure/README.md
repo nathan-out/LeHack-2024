@@ -2,7 +2,7 @@
 
 *Hervé Letoqueux de VIGINUM*
 
-- [Hervé Letoqueux - LinkedIn](https://www.linkedin.com/in/herve-letoqueux-3b5111298/)
+- [Hervé Letoqueux - LinkedIn](https://www.linkedin.com/in/herv%C3%A9-letoqueux-3b5111298/)
 
 Analyse de la campagne de désinformation **Portabl Kombat** par les équipes de VIGINUM.
 
