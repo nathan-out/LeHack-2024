@@ -9,3 +9,5 @@ Prise de note de certaines conférences de [LeHack 2024](https://lehack.org/fr/)
 - [Découverte du Groupe APT-C-36 sur les Réseaux D'une Profession Libérale Réglementée](apt-c-36/)
 
 - [Anatomy of an Anti-Bot Protection](anatomy-of-an-anti-bot-protection/)
+
+- [Améliorer l'apprentissage et le pentest grâce aux LLMs](pentest-et-apprentissage-avec-les-llms/)
