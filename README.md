@@ -5,3 +5,7 @@ Prise de note de certaines conférences de [LeHack 2024](https://lehack.org/fr/)
 - [Disinformation Infrastructure](disinformation-as-infrastructure/)
 
 - [AI For Cybersecurity: Applying Machine Learning To Enhance Malware Analysis](malware-classification-with-ai/)
+
+- [Découverte du Groupe APT-C-36 sur les Réseaux D'une Profession Libérale Réglementée](apt-c-36/)
+
+- []
