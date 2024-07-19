@@ -1,0 +1,2 @@
+IADD:00000000:/drone_firmware.bin
+IDSET:/drone_firmware.bin:7f011a96f5703276999303
